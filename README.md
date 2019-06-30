@@ -106,19 +106,19 @@ Breadth first search (remaining: 7, 600, 574)
 
 Binary Search (remaining: 254, 38)
 
-Binary tree - divide counquer & traverse (remaining: 578, 95, 901, 86, 246, 155, 915, 448, 88, 472, 619, 614, 520, 475)
+Binary tree - divide counquer & traverse (remaining: 578, 95, 901, 86, 246, 155, 915, 448, 472, 619, 614, 520, 475)
 
 Two Pointers (remaining: 143,148,59,894,58,103)
 
 Implicit Graph DFS (remaining: 10,152,780)
 
-Hash & Heap (remaining: 4,601,486,551,575,541,540,528,224,24)
+Hash & Heap (remaining: 4,601,486,551,575,541,528,224,24)
 
 Memorization Search (remaining: 683,109,582,198,51,634,123)
 
 DP (remaining: 603,602,117,622,254,630)
 
-Additional (remaining: 944,840,577,931,65,817,665,548,405,139,41,620,404,45,42,43)
+Additional (remaining: 944,840,577,931,65,817,665,405,139,41,404,45,42,43)
 
 * 06/25/2019
 
@@ -135,3 +135,7 @@ Additional (remaining: 944,840,577,931,65,817,665,548,405,139,41,620,404,45,42,4
 * 06/28/2019
 
 625,58
+
+* 06/29/2019
+
+628,626,837,30,569,488,491,620,548,88,540,158*,647
