@@ -38,21 +38,23 @@
 | 07/05/2019 | 386,543,575,12,122,363,364,360,510 |
 | 07/06/2019 | 126,919,131,821,920,868,423,644,640,1784,184,661,448,662,649,650,582 |
 | 07/07/2019 | 32,774,772,11,778,651,633,475,634 |
+| 07/08/2019 | 653,600,630,1075,665,139 |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
 | Content Cell | Content Cell |
 
 
+Defeat the algorithm interview (remaining: 841,594)
 
-Defeat the algorithm interview (remaining: 841, 594)
+Breadth first search (remaining: 7,574)
 
-Breadth first search (remaining: 7, 600, 574)
-
-Binary tree - divide counquer & traverse (remaining: 578, 95, 901, 86, 246, 155, 915, 448, 472, 619, 614, 520)
+Binary tree - divide counquer & traverse (remaining: 578,95,901,86,246,155,915,448,472,619,614,520)
 
 Hash & Heap (remaining: 4,601,486,575,541,528,24)
 
 Memorization Search (remaining: 683,109,582,198,51,123)
 
-DP (remaining: 603,602,117,622,630)
+DP (remaining: 603,602,117,622)
 
-Additional (remaining: 944,840,577,931,65,817,665,405,139,41,404,43)
+Additional (remaining: 944,840,577,931,65,817,405,139,41,404,43)
 
