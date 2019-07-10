@@ -39,7 +39,7 @@
 | 07/06/2019 | 126,919,131,821,920,868,423,644,640,1784,184,661,448,662,649,650,582 |
 | 07/07/2019 | 32,774,772,11,778,651,633,475,634 |
 | 07/08/2019 | 653,600,630,1075,665,139 |
-| Content Cell | Content Cell |
+| 07/09/2019 | 81,391,362,438,392 |
 | Content Cell | Content Cell |
 | Content Cell | Content Cell |
 
@@ -56,5 +56,16 @@ Memorization Search (remaining: 683,109,582,198,51,123)
 
 DP (remaining: 603,602,117,622)
 
-Additional (remaining: 944,840,577,931,65,817,405,139,41,404,43)
+Additional (remaining: 944,840,577,931,65,817,405,41,404,43)
+
+Follow up in Code Interview (remaining: 401,465)
+
+Union Find & Trie (remaining: 132,559,432,635,123)
+
+Stack,Deque,Heap (remaining: 370,369,623,367,368)
+
+Sweep line & binary search (remaining: 390)
+
+Dynamic problem I (remaining: 436,395,676,398,631,581,435)
+
 
